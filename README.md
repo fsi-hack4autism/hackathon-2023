@@ -1,9 +1,9 @@
 # 2023 Financial Services Autism Hackathon
-The main repo for the 2023 hackathon with all the information for the hackathon and pointers to all repositories.
+The main repo for the 2023 hackathon with all the information for the hackathon and pointers to all repositories. Hackathon informaton pertaining to 2023 specifically will remain in here. The individual repositories are made to span multiple years. This years hackathon will focus on ensuring the proper foundation for growth is establed for each use case. This means the repositories created this year will be use again in subsequent years provided these use cases are repeated again. We need to ensure these solutions will lead to real world outcomes.
 
 
 ## Use Cases
-The following are the 5 use cases for 2023.
+The following are the 5 use cases for 2023. Each use case will have it's own repository with more specifics indluding the architecture.
 
 ### Use Case 1: IOT Data Collection
 Dynamic programs require adaptations to data collection which are not supported by these systems. In the end teams frequently resort back to pen, paper, and mechanical devices such as hand tally counters. Can we take a different approach to this problem using an IoT pattern? Can we find a way to simplify data collection using simple mechanisms and use the cloud to store the data and classify it after the fact using modern tools and technologies? Can there be a repository of patterns to match the individual needs of learners and care providers?
