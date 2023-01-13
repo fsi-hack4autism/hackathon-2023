@@ -3,7 +3,7 @@ The main repo for the 2023 hackathon with all the information for the hackathon 
 
 
 ## Use Cases
-The following are the 5 use cases for 2023. Each use case will have it's own repository with more specifics indluding the architecture.
+The following are the 5 use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
 
 ### Use Case 1: IOT Data Collection
 Dynamic programs require adaptations to data collection which are not supported by these systems. In the end teams frequently resort back to pen, paper, and mechanical devices such as hand tally counters. Can we take a different approach to this problem using an IoT pattern? Can we find a way to simplify data collection using simple mechanisms and use the cloud to store the data and classify it after the fact using modern tools and technologies? Can there be a repository of patterns to match the individual needs of learners and care providers?
