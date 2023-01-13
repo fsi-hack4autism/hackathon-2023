@@ -58,9 +58,9 @@ Serve as technical point of contact for a use case, reviewing output from previo
 ### Marketing Lead:
 Organize marketing material for the Hackathon and generate interest internally and externally. 
 - Build a folder of references including: 
-- Word and PowerPoint branded templates
-- Brochure to be distributed to interested external organizations
-- One-pager highlighting the event
+  - Word and PowerPoint branded templates
+  - Brochure to be distributed to interested external organizations
+  - One-pager highlighting the event
 
 
 ### Manager of Operations:
