@@ -28,6 +28,30 @@ This use case will focus on the use of HaloLens for helping to teach job skills 
 ### Use Case 5: Metaverse Social Practice
 Developing social relationships with peers can be one of the biggest challenges for people with autism, despite a strong desire to form them. Social programs can be hard to practice due to limited opportunities, which can lead to disappointing outcomes in the few interactions, and stress can and frustration. The Metaverse offers an opportunity to practice social interactions in a fully immersive environment and the ability to formulate successful programs which can repleted at scale. This use case will lay the groundwork for a social interaction in the Metaverse between a subject and an AI generated peer.
 
+## Roles
+We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
+
+### Training Lead:
+Curate resources and organize sessions in order to equip participants with the knowledge needed to prepare for the hackathon.
+
+### Use Case Manager:
+Serve as the administrator of a use case. Ensure that both the tech leads and participants have what they need before and during the hackathon. 
+
+### Use Case Tech Lead:
+Serve as technical point of contact for a use case, reviewing output from previous years and helping to unblock technical barriers against use case objectives. 
+
+### Marketing Lead:
+Organize marketing material for the Hackathon and generate interest internally and externally. 
+
+### Manager of Operations:
+Ensure that everything is running smoothly across technical planning details of the Hackathon. 
+
+### Customer Engagement Lead:
+Serve as the point person for a given customer organization, ensuring they have what they need to prepare their developers for the hackathon. 
+
+
+  
+ 
 
 
 
