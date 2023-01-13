@@ -2,6 +2,8 @@
 The main repo for the 2023 hackathon with all the information for the hackathon and pointers to all repositories. Hackathon informaton pertaining to 2023 specifically will remain in here. The individual repositories are made to span multiple years. This years hackathon will focus on ensuring the proper foundation for growth is establed for each use case. This means the repositories created this year will be use again in subsequent years provided these use cases are repeated again. We need to ensure these solutions will lead to real world outcomes.
 
 
+![image](https://user-images.githubusercontent.com/4500512/212386856-50328c9e-3699-4aec-8c68-6d889e043c05.png)
+
 ## Use Cases
 The following are the 5 use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
 
@@ -26,7 +28,6 @@ This use case will focus on the use of HaloLens for helping to teach job skills 
 ### Use Case 5: Metaverse Social Practice
 Developing social relationships with peers can be one of the biggest challenges for people with autism, despite a strong desire to form them. Social programs can be hard to practice due to limited opportunities, which can lead to disappointing outcomes in the few interactions, and stress can and frustration. The Metaverse offers an opportunity to practice social interactions in a fully immersive environment and the ability to formulate successful programs which can repleted at scale. This use case will lay the groundwork for a social interaction in the Metaverse between a subject and an AI generated peer.
 
-![image](https://user-images.githubusercontent.com/4500512/212386856-50328c9e-3699-4aec-8c68-6d889e043c05.png)
 
 
 
