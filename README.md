@@ -18,7 +18,7 @@ Dynamic programs require adaptations to data collection which are not supported 
 
 https://github.com/fsi-hack4autism/scenario-1
 
-** Tech Leaders: **
+**Tech Leaders:**
 - GinSiu Cheng (Microsoft)
 - Sridher Manivel (Microsoft)
 - Rob Reese (Microsoft)
