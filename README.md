@@ -7,8 +7,8 @@ The main repo for the 2023 hackathon with all the information for the hackathon 
 
 ## Dates and Location
 The event will be hybrid. The in-person venue will be in NYC. We are currently evaluating two options for dates: 
--March 30 & 31
--April 6 & 7
+- March 30 & 31
+- April 6 & 7
 
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
@@ -19,9 +19,9 @@ Dynamic programs require adaptations to data collection which are not supported 
 https://github.com/fsi-hack4autism/scenario-1
 
 Tech Leaders:
--GinSiu Cheng (Microsoft)
--Sridher Manivel (Microsoft)
--Rob Reese (Microsoft)
+- GinSiu Cheng (Microsoft)
+- Sridher Manivel (Microsoft)
+- Rob Reese (Microsoft)
 
 
 ### Use Case 2: Transform Learner Analysis with Video and AI
