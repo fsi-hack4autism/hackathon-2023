@@ -12,6 +12,11 @@ Dynamic programs require adaptations to data collection which are not supported 
 
 https://github.com/fsi-hack4autism/scenario-1
 
+Tech Leaders:
+-GinSiu Cheng (Microsoft)
+-Sridher Manivel (Microsoft)
+-Rob Reese (Microsoft)
+
 
 ### Use Case 2: Transform Learner Analysis with Video and AI
 Data collection is essential to successful outcomes for learners, but analysts are missing one of the most critical pieces of data when they are reviewing progress and creating programs, video of the learner. Social Media knows how important and compelling this information is but it is not being used to help people with Autism more effectively. This use case looks to develop a platform to capture this information, integrate it with data from other sources, and enrich the analysis with AI. This is an ambitious use case to transform the industry using a vital form of information which is currently missing.
