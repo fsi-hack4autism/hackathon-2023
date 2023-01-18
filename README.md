@@ -4,6 +4,12 @@ The main repo for the 2023 hackathon with all the information for the hackathon 
 
 ![image](https://user-images.githubusercontent.com/4500512/212386856-50328c9e-3699-4aec-8c68-6d889e043c05.png)
 
+
+## Dates and Location
+The event will be hybrid. The in-person venue will be in NYC. We are currently evaluating two options for dates: 
+-March 30 & 31
+-April 6 & 7
+
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
 
