@@ -10,6 +10,8 @@ The following are the use cases for 2023. Each use case will have it's own repos
 ### Use Case 1: IOT Data Collection
 Dynamic programs require adaptations to data collection which are not supported by these systems. In the end teams frequently resort back to pen, paper, and mechanical devices such as hand tally counters. Can we take a different approach to this problem using an IoT pattern? Can we find a way to simplify data collection using simple mechanisms and use the cloud to store the data and classify it after the fact using modern tools and technologies? Can there be a repository of patterns to match the individual needs of learners and care providers?
 
+https://github.com/fsi-hack4autism/scenario-1
+
 
 ### Use Case 2: Transform Learner Analysis with Video and AI
 Data collection is essential to successful outcomes for learners, but analysts are missing one of the most critical pieces of data when they are reviewing progress and creating programs, video of the learner. Social Media knows how important and compelling this information is but it is not being used to help people with Autism more effectively. This use case looks to develop a platform to capture this information, integrate it with data from other sources, and enrich the analysis with AI. This is an ambitious use case to transform the industry using a vital form of information which is currently missing.
