@@ -41,7 +41,7 @@ This use case will focus on the use of HaloLens for helping to teach job skills 
 ### Use Case 5: Metaverse Social Practice
 Developing social relationships with peers can be one of the biggest challenges for people with autism, despite a strong desire to form them. Social programs can be hard to practice due to limited opportunities, which can lead to disappointing outcomes in the few interactions, and stress can and frustration. The Metaverse offers an opportunity to practice social interactions in a fully immersive environment and the ability to formulate successful programs which can repleted at scale. This use case will lay the groundwork for a social interaction in the Metaverse between a subject and an AI generated peer.
 
-## Roles
+## Planning Team Roles
 We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
 
 ### Training Lead:
