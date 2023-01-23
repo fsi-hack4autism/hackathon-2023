@@ -11,7 +11,7 @@ The first Financial Services Autism Hackathon was held in 2018 founded by Leo Ju
 
 Leo's youngest son is autistic and this is what drove him to start the hackathon. Seeing how amazing technology and talented people could transform the financial services landscape, and wanting to bring that combination to the problems he saw at home and how services were deliverd to his son.
 
-![image](https://user-images.githubusercontent.com/4500512/214062951-6de10095-e2e6-482e-aee4-937eb539da0f.png)
+![Drew and Dad small](https://user-images.githubusercontent.com/4500512/214086655-4bfa9a63-f802-441d-a1ba-b7b564ecba85.jpg)
 
 
 ## Dates and Location
