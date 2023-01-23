@@ -9,7 +9,7 @@ Bring developers from the Financial Services industry together to demonstrate ho
 ## Background
 The first Financial Services Autism Hackathon was held in 2018 founded by Leo Junquera, working at Microsoft at the time, and Peter Smulovics from Morgan Stanley, as a grass roots effort to combine the unique value proposition of Microsoft, which relates to technology innovation, and the technology talent which exists in Financial Services towards an industry in dire need of technology innovation. When Leo joined EY, he brought the event to EY and in 2022 the on-premise portion of the hackathon was held in the NY Wavespace and included professional service expertise from EY.
 
-Leo's youngest son is autistic and this is what drove him to start the hackathon. Seeing how amazing technology and talented people could transform the financial services landscape, and wanting to bring that combination to the problems he saw at home and how services were deliverd to his son.
+Leo's youngest son is autistic and this is what drove him to start the hackathon. Seeing how amazing technology and talented people could transform the financial services landscape, and wanting to bring that combination to the problems he saw at home and how services were deliverd to his son. 
 
 ![Drew and Dad small](https://user-images.githubusercontent.com/4500512/214086655-4bfa9a63-f802-441d-a1ba-b7b564ecba85.jpg)
 
