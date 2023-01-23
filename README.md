@@ -4,11 +4,14 @@ The main repository for the 2023 hackathon with all the information for the hack
 ## Mission Statement
 Bring FSI developers together to demonstrate how innovative Microsoft technologies can transform autism treatment by tackling real world use cases provided by families and creating lasting open-source projects for the community.
 
-## Background
-The first Financial Services Autism Hackathon was held in 2018 founded by Leo Junquera, working at Microsoft at the time, and Peter Smulovics from Morgan Stanley, as a grass roots effort to combine the unique value proposition of Microsoft, which relates to technology innovation, and the technology talent which exists in Financial Services towards an industry in dire need of technology innovation.
-
-
 ![image](https://user-images.githubusercontent.com/4500512/212386856-50328c9e-3699-4aec-8c68-6d889e043c05.png)
+
+## Background
+The first Financial Services Autism Hackathon was held in 2018 founded by Leo Junquera, working at Microsoft at the time, and Peter Smulovics from Morgan Stanley, as a grass roots effort to combine the unique value proposition of Microsoft, which relates to technology innovation, and the technology talent which exists in Financial Services towards an industry in dire need of technology innovation. When Leo joined EY, he brought the event to EY and in 2022 the on-premise portion of the hackathon was held in the NY Wavespace and included professional service expertise from EY.
+
+Leo's youngest son is autistic and this is what drove him to start the hackathon. Seeing how amazing technology and talented people could transform the financial services landscape, and wanting to bring that combination to the problems he saw at home and how services were deliverd to his son.
+
+![image](https://user-images.githubusercontent.com/4500512/214062951-6de10095-e2e6-482e-aee4-937eb539da0f.png)
 
 
 ## Dates and Location
