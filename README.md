@@ -16,8 +16,8 @@ Leo's youngest son is autistic and this is what drove him to start the hackathon
 
 ## Dates and Location
 The event will be hybrid. The in-person venue will be in NYC. We are currently evaluating two options for dates: 
-- March 30 & 31
-- April 6 & 7
+- April 20 & 21
+- April 27 & 28
 
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
