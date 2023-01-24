@@ -36,6 +36,7 @@ https://github.com/fsi-hack4autism/scenario-1
 ### Use Case 2: Transform Learner Analysis with Video and AI
 Data collection is essential to successful outcomes for learners, but analysts are missing one of the most critical pieces of data when they are reviewing progress and creating programs, video of the learner. Social Media knows how important and compelling this information is but it is not being used to help people with Autism more effectively. This use case looks to develop a platform to capture this information, integrate it with data from other sources, and enrich the analysis with AI. This is an ambitious use case to transform the industry using a vital form of information which is currently missing.
 
+https://github.com/fsi-hack4autism/patient-video-portfolio-insights
 
 ### Use Case 3: Using ML To Transform Learner Outcomes
 There is a long-held belief that each individual case of autism is so unique that comparisons cannot be drawn to other cases, but marketing companies are able to use data to target the right message to us at the right time to sell their product. The therapies used to help learners with autism are data intensive. Can we use this data to transform outcomes for learners using modern technology and methods?
