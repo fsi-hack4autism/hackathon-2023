@@ -27,7 +27,7 @@ Dynamic programs require adaptations to data collection which are not supported 
 
 https://github.com/fsi-hack4autism/scenario-1
 
-**Tech Leaders:**
+**Use Case:**
 - GinSiu Cheng (Microsoft)
 - Sridher Manivel (Microsoft)
 - Rob Reese (Microsoft)
@@ -38,14 +38,16 @@ Data collection is essential to successful outcomes for learners, but analysts a
 
 https://github.com/fsi-hack4autism/video-learner-insight-transformation
 
-**Tech Leaders:**
+**Use Case Leaders:**
 - Devanshi Thakar (Microsoft)
 - Pierre Mathieu (Microsoft)
 
 ### Use Case 3: Using ML To Transform Learner Outcomes
 There is a long-held belief that each individual case of autism is so unique that comparisons cannot be drawn to other cases, but marketing companies are able to use data to target the right message to us at the right time to sell their product. The therapies used to help learners with autism are data intensive. Can we use this data to transform outcomes for learners using modern technology and methods?
 
-
+**Use Case:**
+- Peter Shand (Microsoft)
+- Halaa Menasy (Microsoft)
 
 ### Use Case 4: HoloLens Skills Training
 This use case will focus on the use of HaloLens for helping to teach job skills to people with autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with autism is significant and the supports in the work environment are limited. The use case will use HaloLens augmented reality to help with basic job skills by presenting a visual cues on how to complete task such as stocking shelves or preparing food. This scenario should also address the issue of moving away from 1:1 support to a 1:n as an a student becomes an adult.
@@ -54,6 +56,11 @@ This use case will focus on the use of HaloLens for helping to teach job skills 
 
 ### Use Case 5: Metaverse Social Practice
 Developing social relationships with peers can be one of the biggest challenges for people with autism, despite a strong desire to form them. Social programs can be hard to practice due to limited opportunities, which can lead to disappointing outcomes in the few interactions, and stress can and frustration. The Metaverse offers an opportunity to practice social interactions in a fully immersive environment and the ability to formulate successful programs which can repleted at scale. This use case will lay the groundwork for a social interaction in the Metaverse between a subject and an AI generated peer.
+
+**Use Case:**
+- Domhnaill Hernon
+- Tommy Sharkey (EY)
+- Alim Williams (EY)
 
 ## Planning Team Roles
 We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
