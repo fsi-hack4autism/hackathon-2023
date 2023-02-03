@@ -31,6 +31,7 @@ https://github.com/fsi-hack4autism/scenario-1
 - GinSiu Cheng (Microsoft)
 - Sridher Manivel (Microsoft)
 - Rob Reese (Microsoft)
+- Thanda Oo (EY)
 
 
 ### Use Case 2: Transform Learner Analysis with Video and AI
