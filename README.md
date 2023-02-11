@@ -15,8 +15,7 @@ Leo's youngest son is autistic and this is what drove him to start the hackathon
 
 
 ## Dates and Location
-The event will be hybrid. The in-person venue will be in NYC at the EY Wavespace during World Austim Awareness Month (April). We are currently evaluating two options for dates: 
-- April 19 & 20
+The date of the event is April 19-20th. The event will be hybrid. The in-person venue will be in NYC at the EY Wavespace during World Austim Awareness Month (April). 
 
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
