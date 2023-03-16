@@ -57,6 +57,7 @@ There is a long-held belief that each individual case of autism is so unique tha
 |Halaa Menasy|Tech Lead|Microsoft|
 |Peter Shand|Tech Lead|Microsoft|
 
+https://github.com/fsi-hack4autism/ML-To-Transform-Learner-Outcomes
 
 ### Use Case 4: HoloLens Skills Training
 This use case will focus on the use of HaloLens for helping to teach job skills to people with autism, particularly those aging out of the supports provided in the school environment. Unemployment for those with autism is significant and the supports in the work environment are limited. The use case will use HaloLens augmented reality to help with basic job skills by presenting a visual cues on how to complete task such as stocking shelves or preparing food. This scenario should also address the issue of moving away from 1:1 support to a 1:n as an a student becomes an adult.
