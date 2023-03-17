@@ -78,6 +78,14 @@ Developing social relationships with peers can be one of the biggest challenges 
 |Tommy Sharkey|Tech Lead|EY|
 |Alim Williams|Tech Lead|EY|
 
+## Technologies
+
+- [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)
+- Azure AD B2C
+- Azure SQL
+- Cosmos DB
+- Event Hubs
+
 
 ## Planning Team Roles
 We often get asked "how can I participate" and have therefore outlined a list of roles and their responsiblities.
