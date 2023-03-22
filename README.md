@@ -81,10 +81,11 @@ Developing social relationships with peers can be one of the biggest challenges 
 ## Technologies
 
 - [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)
-- Azure AD B2C
-- Azure SQL
-- Cosmos DB
-- Event Hubs
+- [Azure AD B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/)
+- [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/database/?view=azuresql)
+- [Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/)
+- [Azure Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep)
+- [Event Hubs](https://learn.microsoft.com/en-us/azure/event-hubs/)
 
 
 ## Planning Team Roles
