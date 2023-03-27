@@ -26,8 +26,17 @@ Dynamic programs require adaptations to data collection which are not supported 
 https://github.com/fsi-hack4autism/scenario-1
 
 #### Success Criteria
+The team in 2022 made amazing progress in realizing this use case and it is close to a prodcution prototype. The goal for this year will be to build an alpha version which is ready for testing.
 
-**Leadership Team:**
+| Name | Criteria |
+|------|----------|
+|Mobile App||
+|IoT Device||
+|Server||
+|Documentation||
+
+
+#### Leadership Team:
 | Name | Role | Company |
 |------|------|---------|
 |GinSiu Cheng|Tech Lead|Microsoft|
