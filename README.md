@@ -17,6 +17,23 @@ Leo's youngest son is autistic and this is what drove him to start the hackathon
 ## Dates and Location
 The date of the event is April 19-20th. The event will be hybrid. The in-person venue will be in NYC at the EY Wavespace during World Austim Awareness Month (April). 
 
+There are two events:
+### The Autism Hackathon
+- Autism Hackathon Day 1 - 4/19 9:00am to 4:00pm
+    - 9:00 - 9:45      Welcome, Introduction and breakfast
+    - 9:45 - 12:00     Hacking
+    - 12:00 - 12:45    Lunch
+    - 12:45 - 4:00     Hacking   
+- Autism Hackathon Day 2 - 4/20 9:00am to 4:00pm
+    - 9:00 - 9:30      Welcome back and breakfast
+    - 9:30 - 12:00    Hacking
+    - 12:00 - 12:45   Lunch
+    - 12:45 - 4:00    Hacking
+
+### Presentations and reception - 4/20 4:00pm-8:00pm
+- 4:00 - 5:30 Use Case Presentations and Panel Commentary
+- 5:30 - 8:00 Reception and Celebration
+
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
 
