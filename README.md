@@ -17,6 +17,8 @@ Leo's youngest son is autistic and this is what drove him to start the hackathon
 ## Dates and Location
 The date of the event is April 19th and 20th. The event will be hybrid. The in-person venue will be in NYC at the EY Headquarter in 1 Manhattan West during World Autism Awareness Month (April).
 
+More information can be found on [the site](https://fsi-hack4autism.github.io) including [registration](https://wavespace.cognistreamer.com/invitation/xzGB98Qz30SuD938Up32dw).
+
 There are two events:
 ### The Autism Hackathon
 - Autism Hackathon Day 1 - 4/19 9:00am to 4:00pm
