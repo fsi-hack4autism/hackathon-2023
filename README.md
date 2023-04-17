@@ -32,7 +32,7 @@ There are two events:
     - 12:00 - 12:45   Lunch
     - 12:45 - 4:00    Hacking
 
-### Presentations and reception - 4/20 4:00pm-8:00pm
+### Presentations and Reception - 4/20 4:00pm-8:00pm
  - 4:00-4:10 - Introduction
  - 4:10-4:30 - Use Case 1
  - 4:30-4:50 - Use Case 2
