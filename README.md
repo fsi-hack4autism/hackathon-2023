@@ -33,8 +33,14 @@ There are two events:
     - 12:45 - 4:00    Hacking
 
 ### Presentations and reception - 4/20 4:00pm-8:00pm
-- 4:00 - 5:30 Use Case Presentations and Panel Commentary
-- 5:30 - 8:00 Reception and Celebration
+ - 4:00-4:10 - Introduction
+ - 4:10-4:30 - Use Case 1
+ - 4:30-4:50 - Use Case 2
+ - 4:50-5:10 - Use Case 3
+ - 5:10-5:30 - Use Case 4
+ - 5:30-5:50 - Use Case 5
+ - 5:50-6:00 - Closing
+
 
 ## Use Cases
 The following are the use cases for 2023. Each use case will have it's own repository with more specifics including the architecture.
